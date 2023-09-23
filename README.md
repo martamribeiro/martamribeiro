@@ -48,6 +48,6 @@
 <a href="mailto:martammrib@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-martammrib@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<h3> ✨ Visitors  <h3>
+<h3> ✨ Visitors  </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=martamribeiro" alt="martamribeiro" /> </p>
