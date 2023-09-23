@@ -13,7 +13,6 @@
   ![C#](https://img.shields.io/badge/C%20Sharp-333333?style=flat&logo=csharp)
   ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
-- 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
