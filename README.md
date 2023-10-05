@@ -35,7 +35,6 @@
 <h3> 📈 &nbsp;Github Stats</h3>
 
 <a href="https://github.com/martamribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martamribeiro&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martamribeiro&theme=buefy&layout=compact" />
 </a>
 
