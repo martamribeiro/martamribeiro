@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring technologies i'm passionate about and developing personal projects.
-- 🎓 &nbsp; Taking a master's degree in Games, Graphic and Interactive Systems at ISEP - Instituto Superior de Engenharia do Porto.
-- 🌱 &nbsp; Learning more about Games Development, Graphic Systems, Multimedia, and Mobile.
+- 🤔 &nbsp; I'm a C# and Unity online tutor.
+- 🎓 &nbsp; I have a BSc Degree in Software Engineering and a MSc Degree in Games, Graphic and Interactive Systems. Former student at ISEP - Instituto Superior de Engenharia do Porto.
+- 🌱 &nbsp; I like to explore technologies i'm passionate about and developing personal projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
