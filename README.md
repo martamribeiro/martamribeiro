@@ -42,6 +42,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/martaribeiro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marta%20Ribeiro-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://martaribeiro.itch.io/"><img alt="itch.io" src="https://img.shields.io/badge/itchio-Marta%20Ribeiro-blue?style=flat-square&logo=itchio"></a>
 <a href="mailto:martammrib@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-martammrib@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
