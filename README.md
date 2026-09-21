@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I'm a C# and Unity online tutor. I'm also an IT teacher at a school, I teach 6th grade and high school students.
-- 🎓 &nbsp; I have a BSc Degree in Software Engineering and a MSc Degree in Games, Graphic and Interactive Systems. Former student at ISEP - Instituto Superior de Engenharia do Porto.
+- 🤔 &nbsp; I'm a C# and Unity online tutor. I'm also an IT teacher at a school, I teach middle and high school students.
+- 🎓 &nbsp; I have a BSc Degree in Software Engineering and a MSc Degree in Games, Graphic and Interactive Systems.
 - 🌱 &nbsp; I like to explore technologies i'm passionate about and developing personal projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
